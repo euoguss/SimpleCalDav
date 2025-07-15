@@ -40,7 +40,7 @@ Esta é a maneira mais simples de subir a API.
 
 1.  **Clone o repositório:**
     ```bash
-    git clone <https://github.com/euoguss/SimpleCalDav>
+    git clone https://github.com/euoguss/SimpleCalDav
     cd CalendarApi
     ```
 
