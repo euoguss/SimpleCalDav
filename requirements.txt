@@ -1,0 +1,9 @@
+fastapi~=0.116.0
+uvicorn
+caldav~=2.0.1
+python-dateutil~=2.9.0.post0
+pydantic~=2.11.7
+vobject~=0.9.9
+icalendar~=6.3.1
+pytz~=2025.2
+python-dotenv
